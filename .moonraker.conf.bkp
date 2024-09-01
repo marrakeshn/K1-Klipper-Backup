@@ -67,7 +67,7 @@ repo = fluidd-core/fluidd
 path = /usr/data/fluidd
 
 [spoolman]
-server = http://192.168.50.40:7912/
+server = http://192.168.50.41:7912/
 sync_rate = 60
 
 [wled k1]
