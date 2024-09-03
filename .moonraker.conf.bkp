@@ -70,11 +70,6 @@ path = /usr/data/fluidd
 server = http://192.168.50.41:7912/
 sync_rate = 60
 
-[wled k1]
-type = http
-address = 192.168.50.226
-chain_count = 72
-
 [update_manager octoeverywhere]
 type = git_repo
 channel = beta
